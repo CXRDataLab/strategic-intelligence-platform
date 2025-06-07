@@ -184,6 +184,27 @@ DIVIDE(
 - Agent development tracking
 - Best practice identification
 
+
+## 📊 Dashboard Screenshots
+
+### Manager-Level Performance Overview
+![Manager KPIs View](./MGR_KPIs_View.png)
+*Executive dashboard showing Manager-to-AE performance matrix with contact rates, deal pipeline, and team metrics*
+
+### Account Executive Deal Pipeline
+![AE KPIs Deal Pipeline](./AE_KPIs_Deal_PipeLine.png)
+*Detailed AE-level view featuring deal pipeline tracking, revenue metrics, and individual performance indicators*
+
+**Key Features Demonstrated:**
+- Manager-to-AE hierarchy drill-down capability
+- Real-time contact rate tracking (36% improvement)
+- Deal pipeline progression (Submissions → Contracts → Funded)
+- Court hearing management and scheduling
+- Revenue analytics (NCR, GSS, LCSS tracking)
+
+
+
+
 ## 🎯 Business Value Delivered
 
 ### Operational Improvements
@@ -237,6 +258,15 @@ DIVIDE(
 - Cross-departmental analytics integration
 - Advanced revenue attribution modeling
 - Executive mobile dashboard deployment
+
+
+
+
+
+
+
+
+
 
 ---
 
